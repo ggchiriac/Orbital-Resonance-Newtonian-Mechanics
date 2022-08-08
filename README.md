@@ -4,5 +4,5 @@ Our team was awarded an Honorable Mention in the 2019 Princeton University Explo
 Using advanced Newtonian Mechanics, we studied Spin-Orbit and Orbit-Orbit Resonance, reaching conclusions about stable system configurations.
 
 <p align="center">
-  <img src="https://github.com/ggchiriac/Orbital-Resonance-Newtonian-Mechanics/blob/main/puec-logo.jpeg" />
+  <img src="https://github.com/ggchiriac/Orbital-Resonance-Newtonian-Mechanics/blob/main/puec-logo.png" />
 </p>
